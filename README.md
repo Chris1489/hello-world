@@ -1,2 +1,2 @@
 # hello-world
-A start in GifHub.
+A start in GitHub.
